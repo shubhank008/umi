@@ -213,5 +213,6 @@ public class Chat : MonoBehaviour {
     /// </summary>
     public void ShowDemo() {
         SceneManager.LoadScene("Demo");
+
     }
 }
